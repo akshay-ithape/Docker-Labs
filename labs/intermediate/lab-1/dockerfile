@@ -1,0 +1,3 @@
+FROM scratch
+Add hello-docker /
+CMD ["/hello-docker"]

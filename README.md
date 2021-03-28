@@ -5,7 +5,11 @@
 ### Beginners 
 
 - [Setup Environment](./docs/setup.md)
-- [Run First Docker(Hello Docker)](./labs/l1.md)
+- [Run First Docker(Hello Docker)](./labs/beginners/l1.md)
+
+### Intermediate
+
+- [Build The Docker Image From Scratch](./labs/intermediate/lab-1/l1.md)
 
 ## Contributing
 
